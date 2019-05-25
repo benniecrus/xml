@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student_list>
+    <student roll="SE03781">
+        <name>Dao Huy Dat</name>
+        <age>23</age>
+        <address>Gia Lai</address>
+    </student>
+    <student roll="SE03875">
+        <name>Bui Vinh Dat</name>
+        <age>22</age>
+        <address>Tu Liem, Ha Noi</address>
+    </student>
+    <student roll="SE03870">
+        <name>Nguyen Manh Hieu</name>
+        <age>21</age>
+        <address>Phu Tho</address>
+    </student>
+    <student roll="SE03457">
+        <name>Nguyen Minh Triet</name>
+        <age>28</age>
+        <address>Tp.Ho Chi Minh</address>
+    </student>
+</student_list>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<product_list>
+    <product code="P001">
+        <name>Mouse</name>
+        <price>100</price>
+        <desscription>Tuyet voi</desscription>
+    </product>
+    <product code="P002">
+        <name>keyboard</name>
+        <price>120</price>
+        <desscription>Cung duoc</desscription>
+    </product>
+    <product code="P003">
+        <name>Monitor</name>
+        <price>300</price>
+        <desscription>full hd, k che</desscription>
+    </product>
+</product_list>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<persons>
+    <person code="P002">
+        <name>Nguyen Van Hung</name>
+        <age>22</age>
+        <address>Hai Duong</address>
+    </person>
+    <person code="P003">
+        <name>Nguyen Van Chuong</name>
+        <age>23</age>
+        <address>Ha Noi</address>
+    </person>
+    <person code="P004">
+        <name>Nguyen Van My</name>
+        <age>24</age>
+        <address>Ha Nam</address>
+    </person>
+</persons>

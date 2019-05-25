@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<student_list>
+    <student roll="SE03599">
+        <name>Nam</name>
+        <age>23</age>
+        <class>IS20903</class>
+    </student>
+    <student roll="180104">
+        <name>Van</name>
+        <age>13</age>
+        <class>7A2</class>
+    </student>
+    <student roll="160592">
+        <name>Anh</name>
+        <age>23</age>
+        <class>A2</class>
+    </student>
+</student_list>
